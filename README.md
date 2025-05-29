@@ -382,5 +382,52 @@ case 7:
 
 **Output :**
 
+## Polygon
+
+![1](https://github.com/user-attachments/assets/529ce2e3-c1a1-47e8-ae75-9531b53b2ba9)
+
+![2](https://github.com/user-attachments/assets/80530c7b-8abf-47fb-830f-ad31d679d3cb)
+
+![3](https://github.com/user-attachments/assets/c844c7c3-eb7c-47ef-87e7-136951c0b0c0)
+
+## Translation
+
+![4](https://github.com/user-attachments/assets/5e352d09-8719-4b1f-80bc-86a1f2ef9cb5)
+
+![5](https://github.com/user-attachments/assets/a0ef0b7f-1e83-4348-9683-ab79331f48e7)
+
+![6](https://github.com/user-attachments/assets/7994228d-402e-40e2-9345-f44839e7d5ab)
+
+## Scaling
+
+![7](https://github.com/user-attachments/assets/30d9080e-a284-4f6f-8c9a-037d43bad24a)
+
+![8](https://github.com/user-attachments/assets/0ebff6f4-5f81-41f3-b832-738127f24666)
+
+![9](https://github.com/user-attachments/assets/63738bde-4423-49e1-a814-7d4fe8b348c4)
+
+## Rotaion
+![10](https://github.com/user-attachments/assets/46189e55-093a-40c9-9e5c-9e7cf95663fb)
+
+![11](https://github.com/user-attachments/assets/1faedc50-b8c4-4f24-a4dc-b9f2a8a284f3)
+
+![12](https://github.com/user-attachments/assets/51adadd8-87ba-4235-bd79-3058897f7b64)
+
+## Reflection
+
+![13](https://github.com/user-attachments/assets/9203087a-51d2-475d-8f10-49c4f1236b61)
+
+![14](https://github.com/user-attachments/assets/a94e8c0b-5891-433f-9ace-0054374412dc)
+
+![15](https://github.com/user-attachments/assets/44941e65-42a7-43f7-8958-9960320d2f76)
+
+## Shearing
+
+![16](https://github.com/user-attachments/assets/9d28d5a3-9a0a-4a70-9801-ce1f72ec565f)
+
+![17](https://github.com/user-attachments/assets/71336f3d-d4b5-48bd-8b0c-eae43374029b)
+
+![18](https://github.com/user-attachments/assets/80dbf182-ff61-4b96-b9be-9dd0f4999a07)
 
 **Result :**
+A c program to implement 2D transformation of image was was written and executed successfully.
